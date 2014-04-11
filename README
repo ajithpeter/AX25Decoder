@@ -1,0 +1,5 @@
+This project is a brutal rip-off from Thomas Sailer(HB9JNX)'s Multimon program.  My objective was to strip out and understand the basic functioning of an AX.25 AFSK Packet Decoder and interface the same to RTL SDR.  Currently I am able to decode packet frames from SDR Sharp through a Virtual Audio Cable program.  However in the days to come, I plan to implement an NBFM receiver using RTL-SDR and interface the following code.
+
+I might add some of the stuff mentioned here to build a better AX.25 Decoder for Amateur Packet Radio:
+
+http://www.cs.tau.ac.il/~stoledo/Bib/Pubs/QEX-JulAug-2012.pdf
